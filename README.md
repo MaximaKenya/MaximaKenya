@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MaximaKenya.
-- 👀 I’m interested in Data Analytics.
-- 🌱 I’m currently learning Data Analytics in Python.
-- 💞️ I’m looking to collaborate on GitHub with fellow pythoneers.
+- 👀 I’m interested in Front End Development and Data Analytics.
+- 🌱 I’m currently learning Javascript and it's libraries as well as Data Analytics in Python.
+- 💞️ I’m looking to collaborate on GitHub with fellow Developers and Analysts.
 - 📫 How to reach me: maximillianndeti@gmail.com
 
 <!---
